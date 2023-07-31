@@ -1,0 +1,21 @@
+{
+  "name": "lapis-dei",
+  "displayName": "Lapis Dei",
+  "description": "Zhongli VSCode Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lapis Dei",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lapis Dei-color-theme.json"
+      }
+    ]
+  }
+}
