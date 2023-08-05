@@ -2,7 +2,8 @@
   "name": "lapis-dei",
   "displayName": "Lapis Dei",
   "description": "Zhongli VSCode Color Theme",
-  "version": "0.0.1",
+  "icon": "images/zhongli-theme-icon.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -14,8 +15,12 @@
       {
         "label": "Lapis Dei",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lapis Dei-color-theme.json"
+        "path": "./themes/zhongli-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeoooo/zhongli-theme.git"
   }
 }
