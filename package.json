@@ -3,6 +3,7 @@
   "displayName": "Lapis Dei",
   "description": "Zhongli VSCode Color Theme",
   "icon": "images/zhongli-theme-icon.png",
+  "publisher": "jeooo",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
